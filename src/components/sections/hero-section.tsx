@@ -20,7 +20,7 @@ export function HeroSection() {
           <div className="max-w-2xl">
             {/* Heading */}
             <h1 className="text-balance text-5xl font-bold tracking-tight text-white sm:text-6xl lg:text-7xl">
-              Find Your Dream Home Here
+              Find Your Dream Home 
             </h1>
 
             {/* Subtext */}
